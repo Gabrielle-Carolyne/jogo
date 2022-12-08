@@ -15,7 +15,7 @@
     position: absolute;
     bottom: 0;
     width: 80px; 
-    animation: obstaculo-animation 2s infinite linear;
+    animation: obstaculo-animation 2s infinite linear; 
   }
 
   .qiqi{
